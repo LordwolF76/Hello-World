@@ -7,5 +7,5 @@
  +Favorite Quote:  "<QUOTE>" -- Who Said It
  +Favorite Movie: <MOVIE TITLE>
  +Last Book Read: <BOOK TITLE>
- +Goal for RysenRPG:  <YOUR GOAL>
+ +Goal for Server:  <YOUR GOAL>
  +
